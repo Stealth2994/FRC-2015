@@ -164,7 +164,7 @@ public class Constants
 		defaults.put(ARM_DROPOFF_SPEED, "0.4");
 		defaults.put(ARM_LOAD_SPEED, "0.3");
 		defaults.put(ARM_UNLOAD_SPEED, "0.3");
-		defaults.put(ARM_DROPOFF_TIME, "0");
+		defaults.put(ARM_DROPOFF_TIME, "0.01");
 		defaults.put(ARM_UNLOAD_TIME, "0");
 		
 		// Other
